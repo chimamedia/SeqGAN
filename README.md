@@ -1,9 +1,9 @@
 # SeqGAN
 
 ## Requirements: 
-* **Tensorflow r1.0.1**
-* Python 2.7
-* CUDA 7.5+ (For GPU)
+* **Tensorflow 1.1.0**
+* Python 3.5
+* CUDA 8.0+ (For GPU)
 
 ## Introduction
 Apply Generative Adversarial Nets to generating sequences of discrete tokens.
